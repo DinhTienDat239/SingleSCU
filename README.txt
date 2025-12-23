@@ -1,6 +1,7 @@
 SINGLE CENTRAL UPDATE ON UNITY
 I wrote this script for learning.
 Replace Singleton DP of your own.
+If you need c#7 and lower for syntax error. Please checkout c#7 branch
 
 Example use:
 
